@@ -1,0 +1,13 @@
+{
+  "home": "house2", 
+  "doors": [
+    {
+      "ip": "aaaa::212:7405:5:505",
+      "neighbors": "room1"
+    },   
+    {
+      "ip": "aaaa::212:7406:6:606",
+      "neighbors": "room1" 
+    }
+  ]
+}
