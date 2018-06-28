@@ -6,5 +6,7 @@ The same thing is for the MN, where the information from cooja sensor are token 
 
 
 For more detail read the overview.pdf file.
-Giulia Ferri
+
+giuliaferri91
+
 Gianluk92
