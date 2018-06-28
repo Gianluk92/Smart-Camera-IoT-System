@@ -6,4 +6,5 @@ The project is divided in two main part, the first is IN folder where its AE (Ap
 The same thing is for the MN, where the information from cooja sensor are token and processed before insert it inside oneM2M.
 
 
-For more detail read the overview.pdf file. Otherwise contact me gianlucagiuffrida@hotmail.it
+For more detail read the overview.pdf file.
+
